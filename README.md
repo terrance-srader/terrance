@@ -1,7 +1,7 @@
 # terrance
 
 
-Senior Network Security Engineer with years of IT/OT experience across manufacturing, power, and energy sectors.  
+Senior Network Security Engineer with 10+ years of IT/OT experience across manufacturing, power, and energy sectors.  
 I specialize in IT/OT security architect, secure network design, firewall rules auditing, SecOPS/Incident Response, and network automation to improve security maturity and compliance.
 
 ---
@@ -14,6 +14,7 @@ Network Security and Firewalls
 
  Security Monitoring and SIEM
 - Rapid7 InsightIDR / InsightNDR: Threat detection, custom query building, alert triage
+- Palo Alto XSOAR
 - CrowdStrike Falcon: Endpoint detection & response (EDR/XDR), IOC hunting
 
  Privileged Access and Governance
@@ -21,7 +22,7 @@ Network Security and Firewalls
 - NIST Cybersecurity Framework (CSF): Risk assessments, maturity modeling, control mapping
 
  Scripting and Automation
-- Python: Automating firewall rule audits, parsing configs, integrating APIs (Panorama, Rapid7, CyberArk)
+- Python: Automating firewall rule audits, parsing configs, integrating APIs (Panorama)
 - APIs and Integrations: REST API scripting for security data enrichment and reporting
 
 ---
@@ -44,7 +45,7 @@ Security Operations Dashboards
 ---
 
 Current
-- CISSP Certification (2025 target)
+- CISSP Certification
 - Expanding automation workflows with Python & REST APIs
 - AI applications for firewall rule reviews  
 
