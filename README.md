@@ -95,4 +95,5 @@ Effective security architecture is not measured by the number of controls deploy
 ## Connect
 
 LinkedIn:
+
 https://www.linkedin.com/in/terry-srader
